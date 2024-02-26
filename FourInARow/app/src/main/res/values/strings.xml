@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Four In A Row</string>
+    <string name="intro">Click a space to place your tile :)</string>
+    <string name="player">PLAYER: </string>
+    <string name="reset">RESET</string>
+    <string name="red_won">Winner: RED!</string>
+    <string name="blue_won">Winner: BLUE!</string>
+    <string name="tied">Winner: TIE!</string>
+    <string name="empty"> </string>
+    <string name="error">ERROR: space is filled, choose another</string>
+
+</resources>
